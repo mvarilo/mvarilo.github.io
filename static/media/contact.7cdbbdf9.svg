@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="165.6" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="113.4 129.1 198.5 165.6" width="198.5" zoomAndPan="magnify">
+ <g id="surface1">
+  <g id="change1_1"><path d="m146.78 213.86h28.9l-33.72 39.2z" fill="#448cce"/></g>
+  <g id="change1_2"><path d="m229.58 130.45h-98.75s-17.47-1.31-17.47 13.77v68.67c0 15.09 17.47 13.77 17.47 13.77h98.75s17.47 1.32 17.47-13.77v-68.67c0-15.08-17.47-13.77-17.47-13.77" fill="#448cce"/></g>
+  <path d="m1361.1 2587.4h881.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <path d="m1361.1 2411.7h881.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <path d="m1470.8 2493.9h662.6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <path d="m1470.8 2313.3h662.6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <g id="change2_1"><path d="m278.42 255.58h-28.9l33.72 39.2z" fill="#456dbe"/></g>
+  <g id="change2_2"><path d="m195.62 172.17h98.75s17.47-1.31 17.47 13.78v68.66c0 15.09-17.47 13.78-17.47 13.78h-98.75s-17.48 1.31-17.48-13.78v-68.66c0-15.09 17.48-13.78 17.48-13.78" fill="#456dbe"/></g>
+  <path d="m2890.9 2170.2h-881.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <path d="m2890.9 1994.5h-881.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <path d="m2781.2 2076.7h-662.6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <path d="m2781.2 1896.1h-662.6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+ </g>
+</svg>
