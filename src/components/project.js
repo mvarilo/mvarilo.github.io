@@ -61,7 +61,7 @@ export default function Project(props) {
                         <Button
                             text="Github"
                             newTab={true}
-                            href={"https://github.com/mvarilo/portfolio"}
+                            href={"https://github.com/mvarilo/mvarilo.github.io"}
                             theme={theme}
                             className="portfolio-repo-btn"
                         />
